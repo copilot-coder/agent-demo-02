@@ -10,7 +10,7 @@ pip install openai requests
 ```
 
 - 设置环境变量OPENAI_API_KEY
-- 设置环境变量TAVILY_API_KEY(在https://app.tavily.com申请)
+- 设置环境变量TAVILY_API_KEY(在[https://app.tavily.com](https://app.tavily.com)申请)
 - 运行脚本
 ```
 python agent.py
